@@ -1,0 +1,6 @@
+artifact_location: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187
+creation_time: 1751966817846
+experiment_id: '101940964650189187'
+last_update_time: 1751966817846
+lifecycle_stage: active
+name: breast-cancer-rf-hp

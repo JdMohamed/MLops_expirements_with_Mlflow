@@ -1,0 +1,10 @@
+artifact_location: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/models/m-81d4e57c0b6f49dab1cd6701711188a0/artifacts
+creation_timestamp: 1751966824760
+experiment_id: '101940964650189187'
+last_updated_timestamp: 1751966829350
+model_id: m-81d4e57c0b6f49dab1cd6701711188a0
+model_type: null
+name: random_forest
+source_run_id: aa129143619b495f9b67f6abe007b25e
+status: 2
+status_message: null

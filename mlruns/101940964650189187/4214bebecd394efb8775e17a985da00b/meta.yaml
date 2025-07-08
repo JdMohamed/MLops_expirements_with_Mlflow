@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/4214bebecd394efb8775e17a985da00b/artifacts
+end_time: 1751966824359
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 4214bebecd394efb8775e17a985da00b
+run_name: selective-mouse-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824328
+status: 3
+tags: []
+user_id: saddami

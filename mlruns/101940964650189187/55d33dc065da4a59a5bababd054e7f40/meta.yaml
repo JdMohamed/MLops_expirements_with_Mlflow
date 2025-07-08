@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/55d33dc065da4a59a5bababd054e7f40/artifacts
+end_time: 1751966824287
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 55d33dc065da4a59a5bababd054e7f40
+run_name: bold-horse-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824265
+status: 3
+tags: []
+user_id: saddami

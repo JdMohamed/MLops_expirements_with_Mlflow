@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/d21134a744b44a589a90feb8866edacc/artifacts
+end_time: 1751966824325
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: d21134a744b44a589a90feb8866edacc
+run_name: grandiose-mouse-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824291
+status: 3
+tags: []
+user_id: saddami

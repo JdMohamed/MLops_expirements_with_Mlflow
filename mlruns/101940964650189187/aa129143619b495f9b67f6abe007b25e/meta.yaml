@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/aa129143619b495f9b67f6abe007b25e/artifacts
+end_time: 1751966829359
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: aa129143619b495f9b67f6abe007b25e
+run_name: dashing-fly-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966818075
+status: 3
+tags: []
+user_id: saddami

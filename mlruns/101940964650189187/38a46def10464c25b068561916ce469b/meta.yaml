@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/38a46def10464c25b068561916ce469b/artifacts
+end_time: 1751966824262
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 38a46def10464c25b068561916ce469b
+run_name: overjoyed-steed-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824236
+status: 3
+tags: []
+user_id: saddami

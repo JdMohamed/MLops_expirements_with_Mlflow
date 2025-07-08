@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/c3405c5325ee4c37918e6c554ad1bfb2/artifacts
+end_time: 1751966824625
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: c3405c5325ee4c37918e6c554ad1bfb2
+run_name: serious-seal-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824588
+status: 3
+tags: []
+user_id: saddami

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/bd1bb670491d4e32bde449fec21adc72/artifacts
+end_time: 1751966824585
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: bd1bb670491d4e32bde449fec21adc72
+run_name: kindly-moth-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824563
+status: 3
+tags: []
+user_id: saddami

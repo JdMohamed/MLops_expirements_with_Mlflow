@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/217a7b84e7c2431ea4c8db923f2d0a5f/artifacts
+end_time: 1751966824490
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 217a7b84e7c2431ea4c8db923f2d0a5f
+run_name: inquisitive-worm-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824466
+status: 3
+tags: []
+user_id: saddami

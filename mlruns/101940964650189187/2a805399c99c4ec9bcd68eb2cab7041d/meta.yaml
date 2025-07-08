@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/2a805399c99c4ec9bcd68eb2cab7041d/artifacts
+end_time: 1751966824557
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 2a805399c99c4ec9bcd68eb2cab7041d
+run_name: dapper-owl-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824529
+status: 3
+tags: []
+user_id: saddami

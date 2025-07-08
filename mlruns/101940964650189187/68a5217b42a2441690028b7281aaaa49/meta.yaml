@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/68a5217b42a2441690028b7281aaaa49/artifacts
+end_time: 1751966824397
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 68a5217b42a2441690028b7281aaaa49
+run_name: kindly-jay-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824364
+status: 3
+tags: []
+user_id: saddami

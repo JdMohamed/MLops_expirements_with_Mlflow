@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saddami/Documents/git-tuto/MLops_expirements_with_Mlflow/mlruns/101940964650189187/87516aae1c694ab88f776e5baf687560/artifacts
+end_time: 1751966824462
+entry_point_name: ''
+experiment_id: '101940964650189187'
+lifecycle_stage: active
+run_id: 87516aae1c694ab88f776e5baf687560
+run_name: capable-ant-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751966824431
+status: 3
+tags: []
+user_id: saddami
