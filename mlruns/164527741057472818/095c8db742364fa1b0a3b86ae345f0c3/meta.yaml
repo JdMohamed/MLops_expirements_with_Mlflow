@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164527741057472818/095c8db742364fa1b0a3b86ae345f0c3/artifacts
+end_time: 1751957364764
+entry_point_name: ''
+experiment_id: '164527741057472818'
+lifecycle_stage: active
+run_id: 095c8db742364fa1b0a3b86ae345f0c3
+run_name: casual-foal-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751957357537
+status: 3
+tags: []
+user_id: saddami

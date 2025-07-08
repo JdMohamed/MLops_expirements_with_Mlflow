@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164527741057472818/022d949e7f9b4081b6a79f9886a02cbb/artifacts
+end_time: 1751898951172
+entry_point_name: ''
+experiment_id: '164527741057472818'
+lifecycle_stage: active
+run_id: 022d949e7f9b4081b6a79f9886a02cbb
+run_name: debonair-flea-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751898951013
+status: 3
+tags: []
+user_id: saddami

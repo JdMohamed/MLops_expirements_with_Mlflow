@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164527741057472818/6410b74da8a04cd2ae1d4da5cb6a408f/artifacts
+deleted_time: 1751957759331
+end_time: 1751957335263
+entry_point_name: ''
+experiment_id: '164527741057472818'
+lifecycle_stage: deleted
+run_id: 6410b74da8a04cd2ae1d4da5cb6a408f
+run_name: rumbling-pig-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751957335107
+status: 4
+tags: []
+user_id: saddami

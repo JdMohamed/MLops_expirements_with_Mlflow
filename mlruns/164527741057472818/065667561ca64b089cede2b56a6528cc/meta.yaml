@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164527741057472818/065667561ca64b089cede2b56a6528cc/artifacts
+end_time: 1751897440251
+entry_point_name: ''
+experiment_id: '164527741057472818'
+lifecycle_stage: active
+run_id: 065667561ca64b089cede2b56a6528cc
+run_name: monumental-bat-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751897440055
+status: 3
+tags: []
+user_id: saddami

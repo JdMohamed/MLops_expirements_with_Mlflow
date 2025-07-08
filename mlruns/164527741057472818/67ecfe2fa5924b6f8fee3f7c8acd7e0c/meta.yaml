@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164527741057472818/67ecfe2fa5924b6f8fee3f7c8acd7e0c/artifacts
+end_time: 1751957719669
+entry_point_name: ''
+experiment_id: '164527741057472818'
+lifecycle_stage: active
+run_id: 67ecfe2fa5924b6f8fee3f7c8acd7e0c
+run_name: honorable-carp-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751957713465
+status: 3
+tags: []
+user_id: saddami
